@@ -3,7 +3,7 @@ name = "SigmaOS-arch-lock"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "arch-lock component"
+description = "SigmaOS SigmaOS-arch-lock component"
 upstream = []
 
 [contract]
