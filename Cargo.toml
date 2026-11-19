@@ -2,7 +2,7 @@
 name = "arch-lock"
 version = "0.1.0"
 edition = "2021"
-description = "SigmaOS SigmaOS-arch-lock component - Inspired by Arch Linux and Debian"
+description = "SigmaOS SigmaOS-arch-lock component - SigmaOS component"
 license = "MIT"
 repository = "https://github.com/AaryanSinghChauhan09/SigmaOS-arch-lock"
 
