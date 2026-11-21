@@ -1,6 +1,6 @@
-# SigmaOS-arch-lock
+# SigmaOS-lock
 
-SigmaOS SigmaOS-arch-lock component
+SigmaOS SigmaOS-lock component
 
 - **Category:** Components
 - **Engine:** component

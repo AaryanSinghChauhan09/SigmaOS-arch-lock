@@ -1,4 +1,4 @@
-use arch_lock::Component;
+use sigmaos_lock::Component;
 
 #[test]
 fn test_component_new_aaa() {

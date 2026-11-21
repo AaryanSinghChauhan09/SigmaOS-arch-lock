@@ -1,10 +1,10 @@
 [package]
-name = "arch-lock"
+name = "sigmaos-lock"
 version = "0.1.0"
 edition = "2021"
-description = "SigmaOS SigmaOS-arch-lock component - SigmaOS component"
+description = "SigmaOS SigmaOS-lock component - SigmaOS component"
 license = "MIT"
-repository = "https://github.com/AaryanSinghChauhan09/SigmaOS-arch-lock"
+repository = "https://github.com/AaryanSinghChauhan09/SigmaOS-lock"
 
 [dependencies]
 thiserror = "2"

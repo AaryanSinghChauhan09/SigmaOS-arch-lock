@@ -1,9 +1,9 @@
 [component]
-name = "SigmaOS-arch-lock"
+name = "SigmaOS-lock"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "SigmaOS SigmaOS-arch-lock component"
+description = "SigmaOS SigmaOS-lock component"
 upstream = []
 
 [contract]
